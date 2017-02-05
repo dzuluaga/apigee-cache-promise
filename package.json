@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dzuluaga/apigee-access-cache.git"
+    "url": "git+https://github.com/dzuluaga/apigee-cache-promise.git"
   },
   "keywords": [
     "apigee",
@@ -19,9 +19,9 @@
   "author": "Diego Zuluaga",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dzuluaga/apigee-access-cache/issues"
+    "url": "https://github.com/dzuluaga/apigee-cache-promise/issues"
   },
-  "homepage": "https://github.com/dzuluaga/apigee-access-cache#readme",
+  "homepage": "https://github.com/dzuluaga/apigee-cache-promise#readme",
   "dependencies": {
     "debug": "^2.6.0",
     "promise": "^7.1.1"
