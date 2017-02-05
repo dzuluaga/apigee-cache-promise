@@ -1,0 +1,29 @@
+{
+  "name": "apigee-cache-promise",
+  "version": "1.0.0",
+  "description": "Promisified version of Apigee Access Cache for get, put, and remove.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzuluaga/apigee-access-cache.git"
+  },
+  "keywords": [
+    "apigee",
+    "apigee-access",
+    "node.js",
+    "cache"
+  ],
+  "author": "Diego Zuluaga",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dzuluaga/apigee-access-cache/issues"
+  },
+  "homepage": "https://github.com/dzuluaga/apigee-access-cache#readme",
+  "dependencies": {
+    "debug": "^2.6.0",
+    "promise": "^7.1.1"
+  }
+}
