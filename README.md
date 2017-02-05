@@ -39,7 +39,7 @@ apigee_cache_promise.put('cache_key', '{"test": "test_val"}', 300 // 5 minutes)
       })
 ```
 
-#### put
+#### remove
 
 ```javascript
 apigee_cache_promise.remove('cache_key')
