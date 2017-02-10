@@ -44,7 +44,7 @@ apigee_cache_promise.put('cache_key', '{"test": "test_val"}', 300 // 5 minutes)
 ```javascript
 apigee_cache_promise.remove('cache_key')
       .then(function() {
-        console.log('Successfully stored in cache');
+        console.log('Successfully removed from cache');
       })
       .then(function(cached_value) {
         //do more stuff
